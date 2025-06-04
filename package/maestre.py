@@ -45,4 +45,3 @@ def bualat_mainmenu():
             case _:
                 print("\nInvalid option, please try again")
 
-bualat_mainmenu()
