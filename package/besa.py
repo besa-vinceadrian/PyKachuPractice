@@ -45,9 +45,8 @@ def besa_menu():
                 # TODO: Add comment from Salespara
 
             case 7:
-                print("\nComment from Serquina:")
-                # TODO: Add comment from Serquina
-
+                print("\nComment from Serquina: Keep pushing forward vince you are doing great!")
+                
             case 8: 
                 print("Program Terminated.")
                 break

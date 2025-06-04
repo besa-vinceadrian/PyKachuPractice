@@ -39,8 +39,7 @@ def salespara():
                 print("\nComment from Maestre: ")
                 # TODO : Add comment from Maestre
             case 7:
-                print("\nComment from Serquina: ")
-                # TODO : Add comment from Serquina
+                print("\nComment from Serquina: Always believe in yourself, Rica!")
             case 8:
                 print("")
                 break
