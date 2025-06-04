@@ -36,7 +36,7 @@ def bualat_mainmenu():
                 #TODO: add your comment here: Serquina
             case 6:
                 print("\nMaestre's Comment:")
-                #TODO: add your comment here: Maestre
+                print("hello mike")
             case 7:
                 print("\nSalespara's Comment:")
                 #TODO: add your comment here: Salespara

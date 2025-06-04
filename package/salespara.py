@@ -34,7 +34,7 @@ def salespara():
                 # TODO : Add comment from Besa
             case 5:
                 print("\nComment from Bualat: ")
-                # TODO : Add comment from Bualat
+                print("You are a very kind person, Rica.")
             case 6:
                 print("\nComment from Maestre: ")
                 # TODO : Add comment from Maestre

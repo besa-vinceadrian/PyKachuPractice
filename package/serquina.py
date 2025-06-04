@@ -26,7 +26,7 @@ def serquina_menu():
                 # TODO: Add your comment here
             case '5':
                 print("Bualat's comment: ")
-                # TODO: Add your comment here
+                print("You are a very kind person, Zcintilla.")
             case '6':
                 print("Maestre's comment: ")
                 # TODO: Add your comment here
