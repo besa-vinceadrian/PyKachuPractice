@@ -34,7 +34,7 @@ def besa_menu():
 
             case 4: 
                 print("\nComment from Bualat:")
-                # TODO: Add comment from Bualat
+                print("You are a very kind person, Vince.\n")
 
             case 5:
                 print("\nComment from Maestre:")
