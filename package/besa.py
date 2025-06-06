@@ -5,13 +5,14 @@ def besa_menu():
         print("1. Basic Information")
         print("2. Goals")
         print("3. Motto")
-        print("4. Comment from Bualat")
-        print("5. Comment from Maestre")
-        print("6. Comment from Salespara")
-        print("7. Comment from Serquina")
-        print("8. Exit")
+        print("4. Hobbies")
+        print("5. Comment from Bualat")
+        print("6. Comment from Maestre")
+        print("7. Comment from Salespara")
+        print("8. Comment from Serquina")
+        print("9. Exit")
 
-        choice = int(input("\nSelect an option (1-8): "))
+        choice = int(input("\nSelect an option (1-9): "))
 
         match choice:
             case 1:
@@ -32,23 +33,30 @@ def besa_menu():
                 print("\nMotto:")
                 print("'Everyday you wake up, be better.'\n") 
 
-            case 4: 
+            case 4:
+                print("\nHobbies:")
+                print("1. Playing basketball")
+                print("2. Playing video games")
+                print("3. Cutting Hairs")
+                print("4. Cooking\n")
+
+            case 5: 
                 print("\nComment from Bualat:")
                 print("You are a very kind person, Vince.\n")
 
-            case 5:
+            case 6:
                 print("\nComment from Maestre:")
                 # TODO: Add comment from Maestre
 
-            case 6:
+            case 7:
                 print("\nComment from Salespara:")
                 # TODO: Add comment from Salespara
 
-            case 7:
+            case 8:
                 print("\nComment from Serquina:")
                 # TODO: Add comment from Serquina
 
-            case 8: 
+            case 9: 
                 print("Program Terminated.")
                 break
 
